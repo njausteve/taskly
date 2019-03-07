@@ -1,4 +1,7 @@
-# taskly
+
+<img src="./src/assets/icon-left-font-monochrome-black.svg"  height="150">
+
+# Taskly
 
 ## Project setup
 ```
