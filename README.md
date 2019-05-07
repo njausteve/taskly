@@ -3,6 +3,8 @@
 
 # Taskly
 
+Automated insurance report generator and analyser.
+
 ## Project setup
 ```
 yarn install
